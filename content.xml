@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606081041284XIEAC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606081041288PD7GG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Andalucía, the land of a million marvels</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje para 1º de Bachillerato </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pablo Ortiz González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta sda pensada para la asignatura de inglés y adaptada al nivel de 1º de Bachillerato, el alumnado diseñará una página web donde promocionarán el turismo en cada provincia andaluza.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780906095516</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>atkinson-hyperlegible-next</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq4xi9v9-h903urj77</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9v9-h903urj77</odePageId>
+      <odeBlockId>block-1780830493118-o3oifqlpi</odeBlockId>
+      <blockName>Welcome to our project!</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9v9-h903urj77</odePageId>
+          <odeBlockId>block-1780830493118-o3oifqlpi</odeBlockId>
+          <odeIdeviceId>idevice-1780830493116-lfmuqk4kc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><em>Imagine that you have been hired by a tourism agency to promote one of the provinces of Andalusia to international visitors. Your challenge will be to design an attractive and informative website in English that highlights its most interesting places, traditions, gastronomy and cultural heritage. To achieve this, you will not only develop your digital skills, but also expand your tourism-related vocabulary and use the passive voice to describe how monuments were built, traditions are celebrated, or natural spaces are protected. Through this project, you will become both web designers and tourism promoters, creating a website capable of attracting visitors from all over the world.</em><br /></p>
+<figure class="exe-figure position-center" style="width: 1200px;"><img src="https://s1.ppllstatics.com/surinenglish/www/multimedia/2023/06/20/pueblos-frescos-andalucia-ksmE--1200x840@Ideal.jpg" width="1200" height="840" alt="Collage de pueblos andaluces" />
+<figcaption class="figcaption"><em><span class="author">Fuente: Sur in English</span>.</em></figcaption>
+</figure>
+<p></p>
+<p>Bienvenido/a a esta actividad titulada "Andalucía, the land of a million marvels". ¿Estás listo/a para crear tu propia página web?</p>
+<p>Aquí podrás encontrar toda la información necesaria para la realización de la actividad.</p>
+<p>-En <strong>"Planificación y evaluación"</strong> podrás conocer la organización temporal de la actividad, así como la forma en que será evaluada.</p>
+<p>-En <strong>"Banco de Recursos"</strong> encontrarás materiales, explicaciones, páginas web y aplicaciones que te ayudarán a completar la tarea si eres un alumno y a enriquecerla si eres un docente.</p>
+<p>-En <strong>"Seguridad Digital"</strong> aprenderás a desenvolverte de forma segura en Internet.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780830493116-lfmuqk4kc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><em>Imagine that you have been hired by a tourism agency to promote one of the provinces of Andalusia to international visitors. Your challenge will be to design an attractive and informative website in English that highlights its most interesting places, traditions, gastronomy and cultural heritage. To achieve this, you will not only develop your digital skills, but also expand your tourism-related vocabulary and use the passive voice to describe how monuments were built, traditions are celebrated, or natural spaces are protected. Through this project, you will become both web designers and tourism promoters, creating a website capable of attracting visitors from all over the world.</em><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1200px;\"><img src=\"https://s1.ppllstatics.com/surinenglish/www/multimedia/2023/06/20/pueblos-frescos-andalucia-ksmE--1200x840@Ideal.jpg\" width=\"1200\" height=\"840\" alt=\"Collage de pueblos andaluces\" />\n<figcaption class=\"figcaption\"><em><span class=\"author\">Fuente: Sur in English</span>.</em></figcaption>\n</figure>\n<p></p>\n<p>Bienvenido/a a esta actividad titulada \"Andalucía, the land of a million marvels\". ¿Estás listo/a para crear tu propia página web?</p>\n<p>Aquí podrás encontrar toda la información necesaria para la realización de la actividad.</p>\n<p>-En <strong>\"Planificación y evaluación\"</strong> podrás conocer la organización temporal de la actividad, así como la forma en que será evaluada.</p>\n<p>-En <strong>\"Banco de Recursos\"</strong> encontrarás materiales, explicaciones, páginas web y aplicaciones que te ayudarán a completar la tarea si eres un alumno y a enriquecerla si eres un docente.</p>\n<p>-En <strong>\"Seguridad Digital\"</strong> aprenderás a desenvolverte de forma segura en Internet.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9ve-4eenwk6i3</odePageId>
+  <odeParentPageId>page-mq4xi9v9-h903urj77</odeParentPageId>
+  <pageName>Información básica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información básica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información básica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9ve-4eenwk6i3</odePageId>
+      <odeBlockId>block-1780830551372-z1hr4t3eo</odeBlockId>
+      <blockName>¿En qué consiste esta actividad?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9ve-4eenwk6i3</odePageId>
+          <odeBlockId>block-1780830551372-z1hr4t3eo</odeBlockId>
+          <odeIdeviceId>idevice-1780830551371-902q3srjt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Centro de interés:</strong> Diseño de una página web que promocione el turismo en las ocho provincias de Andalucía.</p>
+<p style="text-align: justify;"><strong>Nivel al que va dirigido:</strong> 1º de Bachillerato.</p>
+<p style="text-align: justify;"><strong>Materias implicadas:</strong> Inglés.</p>
+<p style="text-align: justify;"><strong>Temporalización aproximada:</strong> 12 sesiones, avanzando desde la motivación, la activación de conocimientos previos y la exploración hacia la estructuración y la producción, y concluyendo con una reflexión.</p>
+<p style="text-align: justify;"><strong>Idiomas:</strong> Inglés.</p>
+<p style="text-align: justify;"><strong>Descripción: </strong>En esta sda, los alumnos prepararán una página web conjunta donde cada grupo se centrará en una de las ocho provincias andaluzas desde una perspectiva turística, exponiendo su atractivo para posibles visitantes mediante la valoración del patrimonio cultural (arquitectura, gastronomía, arte, parajes naturales…). Una vez lista la web, cada grupo presentará la información que ha recopilado sobre su provincia, intentando convencer al resto de la clase para que la visiten. Finalmente, se votará por la presentación más eficaz y atrayente. Como prueba del producto final, quedará una web que cualquier interesado pueda consultar para conocer un poco mejor las provincias andaluzas.</p>
+<p style="text-align: justify;"><strong>Justificación:</strong> Esta actividad supone una manera dinámica e interesante para el alumnado de practicar la búsqueda de información y la expresión escrita y oral en inglés, así como de fomentar la creatividad. Todo ello bajo una temática cercana para ellos, residiendo en Andalucía, que les permitirá reflexionar y valorar la diversidad cultural de la Comunidad Autónoma. Además, la práctica les ayudará a desarrollar competencia digital al aprender a diseñar una página web, lo cual también puede resultar atractivo para muchos estudiantes. El acercamiento de esta actividad a los intereses del alumnado pretende motivarlos de cara a la realización de la misma.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780830551371-902q3srjt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Centro de interés:</strong> Diseño de una página web que promocione el turismo en las ocho provincias de Andalucía.</p>\n<p style=\"text-align: justify;\"><strong>Nivel al que va dirigido:</strong> 1º de Bachillerato.</p>\n<p style=\"text-align: justify;\"><strong>Materias implicadas:</strong> Inglés.</p>\n<p style=\"text-align: justify;\"><strong>Temporalización aproximada:</strong> 12 sesiones, avanzando desde la motivación, la activación de conocimientos previos y la exploración hacia la estructuración y la producción, y concluyendo con una reflexión.</p>\n<p style=\"text-align: justify;\"><strong>Idiomas:</strong> Inglés.</p>\n<p style=\"text-align: justify;\"><strong>Descripción: </strong>En esta sda, los alumnos prepararán una página web conjunta donde cada grupo se centrará en una de las ocho provincias andaluzas desde una perspectiva turística, exponiendo su atractivo para posibles visitantes mediante la valoración del patrimonio cultural (arquitectura, gastronomía, arte, parajes naturales…). Una vez lista la web, cada grupo presentará la información que ha recopilado sobre su provincia, intentando convencer al resto de la clase para que la visiten. Finalmente, se votará por la presentación más eficaz y atrayente. Como prueba del producto final, quedará una web que cualquier interesado pueda consultar para conocer un poco mejor las provincias andaluzas.</p>\n<p style=\"text-align: justify;\"><strong>Justificación:</strong> Esta actividad supone una manera dinámica e interesante para el alumnado de practicar la búsqueda de información y la expresión escrita y oral en inglés, así como de fomentar la creatividad. Todo ello bajo una temática cercana para ellos, residiendo en Andalucía, que les permitirá reflexionar y valorar la diversidad cultural de la Comunidad Autónoma. Además, la práctica les ayudará a desarrollar competencia digital al aprender a diseñar una página web, lo cual también puede resultar atractivo para muchos estudiantes. El acercamiento de esta actividad a los intereses del alumnado pretende motivarlos de cara a la realización de la misma.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9ve-st9w8e5sw</odePageId>
+  <odeParentPageId>page-mq4xi9v9-h903urj77</odeParentPageId>
+  <pageName>Planificación y evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Planificación y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Planificación y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Planificación y evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9ve-st9w8e5sw</odePageId>
+      <odeBlockId>block-1780825990366-l4k55oii1</odeBlockId>
+      <blockName>¿Qué vas a hacer y cómo se va a evaluar?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9ve-st9w8e5sw</odePageId>
+          <odeBlockId>block-1780825990366-l4k55oii1</odeBlockId>
+          <odeIdeviceId>idevice-1780825990363-99nqjaips</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, puedes consultar cómo se va a organizar la actividad y qué vamos a hacer en cada sesión. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780825990363-99nqjaips","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, puedes consultar cómo se va a organizar la actividad y qué vamos a hacer en cada sesión. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vf-crr875ny2</odePageId>
+  <odeParentPageId>page-mq4xi9ve-st9w8e5sw</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vf-crr875ny2</odePageId>
+      <odeBlockId>block-1780825568651-7fsr59mjo</odeBlockId>
+      <blockName>Relación entre tareas y criterios de evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vf-crr875ny2</odePageId>
+          <odeBlockId>block-1780825568651-7fsr59mjo</odeBlockId>
+          <odeIdeviceId>idevice-1780825568649-zgdsvu88o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí puedes consultar la secuenciación de actividades de esta sda y la relación entre tareas y criterios de evaluación.</p>
+<p><a href="https://docs.google.com/document/d/1CTZLdj7W41WgdgqmGpcIyJAP9xFP-Pl_5lHX1ND9jWg/edit?usp=sharing" title="Secuenciación de actividades">https://docs.google.com/document/d/1CTZLdj7W41WgdgqmGpcIyJAP9xFP-Pl_5lHX1ND9jWg/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780825568649-zgdsvu88o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí puedes consultar la secuenciación de actividades de esta sda y la relación entre tareas y criterios de evaluación.</p>\n<p><a href=\"https://docs.google.com/document/d/1CTZLdj7W41WgdgqmGpcIyJAP9xFP-Pl_5lHX1ND9jWg/edit?usp=sharing\" title=\"Secuenciación de actividades\">https://docs.google.com/document/d/1CTZLdj7W41WgdgqmGpcIyJAP9xFP-Pl_5lHX1ND9jWg/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vf-g83irizxx</odePageId>
+  <odeParentPageId>page-mq4xi9vf-crr875ny2</odeParentPageId>
+  <pageName>Atención a la diversidad</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vf-g83irizxx</odePageId>
+      <odeBlockId>block-1780868692825-7be7cc2c0</odeBlockId>
+      <blockName>Algunos consejos</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vf-g83irizxx</odePageId>
+          <odeBlockId>block-1780868692825-7be7cc2c0</odeBlockId>
+          <odeIdeviceId>idevice-1780868692822-3q7aufpi0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta actividad está pensada para la asignatura de inglés, pero puede ser adaptada fácilmente a otras asignaturas como Informática, Geografía e Historia o Lengua Castellana y Literatura. Manteniendo la idea principal de la creación de una página web, la actividad puede adaptarse a los centros de interés del alumnado o a su nivel de destreza. En cualquier caso, en este apartado incluimos algunos consejos para atender a la diversidad y seguir las pautas DUA:</p>
+<p style="text-align: justify;">-Aunque se propone la utilización de Google Sites como herramienta principal, debemos tener en cuenta la existencia de otras herramientas de elaboración de páginas web, como WordPress o Wix, ya que estas podrían adaptarse mejor a las necesidades del alumnado.</p>
+<p style="text-align: justify;">-El alumnado estará trabajando principalmente con ordenadores; es importante proporcionarle herramientas para que pueda visualizar el contenido sin impedimentos (por ejemplo, utilizando tipografía fácil de leer, evitando el uso de colores disonantes que dificulten la lectura o integrando un transcriptor de texto a sonido).</p>
+<p style="text-align: justify;">-También es importante conformar grupos multinivel donde el alumnado pueda enriquecerse mutuamente, tanto durante la realización de tareas como del producto final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780868692822-3q7aufpi0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta actividad está pensada para la asignatura de inglés, pero puede ser adaptada fácilmente a otras asignaturas como Informática, Geografía e Historia o Lengua Castellana y Literatura. Manteniendo la idea principal de la creación de una página web, la actividad puede adaptarse a los centros de interés del alumnado o a su nivel de destreza. En cualquier caso, en este apartado incluimos algunos consejos para atender a la diversidad y seguir las pautas DUA:</p>\n<p style=\"text-align: justify;\">-Aunque se propone la utilización de Google Sites como herramienta principal, debemos tener en cuenta la existencia de otras herramientas de elaboración de páginas web, como WordPress o Wix, ya que estas podrían adaptarse mejor a las necesidades del alumnado.</p>\n<p style=\"text-align: justify;\">-El alumnado estará trabajando principalmente con ordenadores; es importante proporcionarle herramientas para que pueda visualizar el contenido sin impedimentos (por ejemplo, utilizando tipografía fácil de leer, evitando el uso de colores disonantes que dificulten la lectura o integrando un transcriptor de texto a sonido).</p>\n<p style=\"text-align: justify;\">-También es importante conformar grupos multinivel donde el alumnado pueda enriquecerse mutuamente, tanto durante la realización de tareas como del producto final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vg-o7o5ls0h3</odePageId>
+  <odeParentPageId>page-mq4xi9ve-st9w8e5sw</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vg-o7o5ls0h3</odePageId>
+      <odeBlockId>block-1780829655074-a7alfifco</odeBlockId>
+      <blockName>¿Qué vamos a hacer en cada momento?</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vg-o7o5ls0h3</odePageId>
+          <odeBlockId>block-1780829655074-a7alfifco</odeBlockId>
+          <odeIdeviceId>idevice-1780829655073-v7eewmeox</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí podrás ver de forma visual lo que se hará en cada sesión durante la realización de este proyecto: </p>
+<p><a href="https://canva.link/zj1de29k1649yya">https://canva.link/zj1de29k1649yya</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780829655073-v7eewmeox","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podrás ver de forma visual lo que se hará en cada sesión durante la realización de este proyecto: </p>\n<p><a href=\"https://canva.link/zj1de29k1649yya\">https://canva.link/zj1de29k1649yya</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vg-nzgmfk9tl</odePageId>
+  <odeParentPageId>page-mq4xi9ve-st9w8e5sw</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vg-nzgmfk9tl</odePageId>
+      <odeBlockId>block-1780827907067-5s7zi7tnx</odeBlockId>
+      <blockName>¿Qué vamos a elaborar en esta actividad?</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vg-nzgmfk9tl</odePageId>
+          <odeBlockId>block-1780827907067-5s7zi7tnx</odeBlockId>
+          <odeIdeviceId>idevice-1780827907066-cyzuwqg0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta situación de aprendizaje os convertiréis en auténticos promotores turísticos y diseñadores web. Vuestra misión será <strong>crear una página web en inglés </strong>para dar a conocer <strong>una de las ocho provincias andaluzas</strong> y mostrar al mundo todo lo que la hace especial. A través de este proyecto, investigaréis sobre sus lugares más emblemáticos, su cultura, sus tradiciones, su gastronomía y sus paisajes, utilizando el vocabulario relacionado con el turismo y poniendo en práctica estructuras gramaticales como la voz pasiva.</p>
+<p style="text-align: justify;">Para diseñar vuestra página web utilizaremos <strong>Google Sites,</strong> una herramienta intuitiva y fácil de usar que os permitirá crear un producto digital atractivo, visual y funcional. El objetivo será elaborar una web capaz de despertar el interés de posibles visitantes y convencerles de que vuestra provincia merece ser descubierta. ¿Seréis capaces de crear la mejor campaña de promoción turística de Andalucía?<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780827907066-cyzuwqg0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta situación de aprendizaje os convertiréis en auténticos promotores turísticos y diseñadores web. Vuestra misión será <strong>crear una página web en inglés </strong>para dar a conocer <strong>una de las ocho provincias andaluzas</strong> y mostrar al mundo todo lo que la hace especial. A través de este proyecto, investigaréis sobre sus lugares más emblemáticos, su cultura, sus tradiciones, su gastronomía y sus paisajes, utilizando el vocabulario relacionado con el turismo y poniendo en práctica estructuras gramaticales como la voz pasiva.</p>\n<p style=\"text-align: justify;\">Para diseñar vuestra página web utilizaremos <strong>Google Sites,</strong> una herramienta intuitiva y fácil de usar que os permitirá crear un producto digital atractivo, visual y funcional. El objetivo será elaborar una web capaz de despertar el interés de posibles visitantes y convencerles de que vuestra provincia merece ser descubierta. ¿Seréis capaces de crear la mejor campaña de promoción turística de Andalucía?<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vh-tiau7hae8</odePageId>
+  <odeParentPageId>page-mq4xi9ve-st9w8e5sw</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vh-tiau7hae8</odePageId>
+      <odeBlockId>block-1780829397813-44tqykgnm</odeBlockId>
+      <blockName>¿Cómo va a evaluarse la actividad?</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vh-tiau7hae8</odePageId>
+          <odeBlockId>block-1780829397813-44tqykgnm</odeBlockId>
+          <odeIdeviceId>idevice-1780829397811-e71gp816t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí podrás consultar qué criterios serán evaluados a través de este proyecto, así como las rúbricas que se usarán para calificarlos:</p>
+<p><a href="https://docs.google.com/document/d/12rMbAJ8lzKCL6WuTihksEMQqgPrykzg23gNi787zxx8/edit?usp=sharing">https://docs.google.com/document/d/12rMbAJ8lzKCL6WuTihksEMQqgPrykzg23gNi787zxx8/edit?usp=sharing</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780829397811-e71gp816t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podrás consultar qué criterios serán evaluados a través de este proyecto, así como las rúbricas que se usarán para calificarlos:</p>\n<p><a href=\"https://docs.google.com/document/d/12rMbAJ8lzKCL6WuTihksEMQqgPrykzg23gNi787zxx8/edit?usp=sharing\">https://docs.google.com/document/d/12rMbAJ8lzKCL6WuTihksEMQqgPrykzg23gNi787zxx8/edit?usp=sharing</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vh-tiau7hae8</odePageId>
+      <odeBlockId>block-1780830845433-255m85wpe</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vh-yjszkhfjd</odePageId>
+  <odeParentPageId>page-mq4xi9v9-h903urj77</odeParentPageId>
+  <pageName>Banco de recursos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Banco de recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Banco de recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Banco de recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vh-yjszkhfjd</odePageId>
+      <odeBlockId>block-1780830314884-crxzzlmz7</odeBlockId>
+      <blockName>Materiales de utilidad</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vh-yjszkhfjd</odePageId>
+          <odeBlockId>block-1780830314884-crxzzlmz7</odeBlockId>
+          <odeIdeviceId>idevice-1780830314882-tc7lnjkf8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí encontrarás recursos para el alumnado y para el profesorado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780830314882-tc7lnjkf8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí encontrarás recursos para el alumnado y para el profesorado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vi-bdnfc1ywd</odePageId>
+  <odeParentPageId>page-mq4xi9vh-yjszkhfjd</odeParentPageId>
+  <pageName>Recursos y actividades</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos y actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vi-bdnfc1ywd</odePageId>
+      <odeBlockId>block-1780829160088-eo3ygrltl</odeBlockId>
+      <blockName></blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vi-bdnfc1ywd</odePageId>
+          <odeBlockId>block-1780829160088-eo3ygrltl</odeBlockId>
+          <odeIdeviceId>idevice-1780829160086-k2imytu5y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí encontrarás los principales recursos que vamos a utilizar a lo largo de la actividad, tanto para mejorar nuestras destrezas en inglés como para aprender a usar Google Sites y para elaborar la página web.</p>
+<p><a href="https://padlet.com/pabloog2001/andalucia-the-land-of-a-million-marvels-swmqfg7k6sw16ard">https://padlet.com/pabloog2001/andalucia-the-land-of-a-million-marvels-swmqfg7k6sw16ard</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780829160086-k2imytu5y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí encontrarás los principales recursos que vamos a utilizar a lo largo de la actividad, tanto para mejorar nuestras destrezas en inglés como para aprender a usar Google Sites y para elaborar la página web.</p>\n<p><a href=\"https://padlet.com/pabloog2001/andalucia-the-land-of-a-million-marvels-swmqfg7k6sw16ard\">https://padlet.com/pabloog2001/andalucia-the-land-of-a-million-marvels-swmqfg7k6sw16ard</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vi-m5v6pr03t</odePageId>
+  <odeParentPageId>page-mq4xi9vh-yjszkhfjd</odeParentPageId>
+  <pageName>Recursos profesorado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vi-m5v6pr03t</odePageId>
+      <odeBlockId>block-1780829469847-0auhx50ej</odeBlockId>
+      <blockName></blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vi-m5v6pr03t</odePageId>
+          <odeBlockId>block-1780829469847-0auhx50ej</odeBlockId>
+          <odeIdeviceId>idevice-1780829469845-82ripzrxg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este enlace, el profesorado podrá encontrar recursos útiles para la elaboración de materiales, tanto a nivel general como centrados en la asignatura de inglés.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAzA3kksAA41_W3beUQ==">https://www.symbaloo.com/shared/AAAAAzA3kksAA41_W3beUQ==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780829469845-82ripzrxg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este enlace, el profesorado podrá encontrar recursos útiles para la elaboración de materiales, tanto a nivel general como centrados en la asignatura de inglés.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAzA3kksAA41_W3beUQ==\">https://www.symbaloo.com/shared/AAAAAzA3kksAA41_W3beUQ==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vj-0vibiziam</odePageId>
+  <odeParentPageId>page-mq4xi9v9-h903urj77</odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vj-0vibiziam</odePageId>
+      <odeBlockId>block-1780829739223-wbr0osgmt</odeBlockId>
+      <blockName>¡Es importante leerlo!</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vj-0vibiziam</odePageId>
+          <odeBlockId>block-1780829739223-wbr0osgmt</odeBlockId>
+          <odeIdeviceId>idevice-1780829739221-hzy52ii29</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Trabajar con material digital conlleva ciertos riesgos y dificultades. Esta infografía te ayudará a conocer tus derechos y deberes respecto al contenido digital y te aconsejará acerca de lo que debes o no hacer cuando busques en la web:</p>
+<p><a href="https://canva.link/dbrdr0jzt9rtl4p">https://canva.link/dbrdr0jzt9rtl4p</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780829739221-hzy52ii29","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Trabajar con material digital conlleva ciertos riesgos y dificultades. Esta infografía te ayudará a conocer tus derechos y deberes respecto al contenido digital y te aconsejará acerca de lo que debes o no hacer cuando busques en la web:</p>\n<p><a href=\"https://canva.link/dbrdr0jzt9rtl4p\">https://canva.link/dbrdr0jzt9rtl4p</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq4xi9vj-qk8tie4ks</odePageId>
+  <odeParentPageId>page-mq4xi9v9-h903urj77</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vj-qk8tie4ks</odePageId>
+      <odeBlockId>block-1780830967776-fd6r8ickw</odeBlockId>
+      <blockName></blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vj-qk8tie4ks</odePageId>
+          <odeBlockId>block-1780830967776-fd6r8ickw</odeBlockId>
+          <odeIdeviceId>idevice-1780830967775-6n8jf1v8k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría: </strong>Pablo Ortiz González</p>
+<p><strong>Licencia de uso: </strong>CC BY-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780830967775-6n8jf1v8k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría: </strong>Pablo Ortiz González</p>\n<p><strong>Licencia de uso: </strong>CC BY-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq4xi9vj-qk8tie4ks</odePageId>
+      <odeBlockId>block-1780906890519-2wjuci9oa</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4xi9vj-qk8tie4ks</odePageId>
+          <odeBlockId>block-1780906890519-2wjuci9oa</odeBlockId>
+          <odeIdeviceId>idevice-1780906890516-8fqru27oc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Andalucía, the land of a million marvels</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta sda pensada para la asignatura de inglés y adaptada al nivel de 1º de Bachillerato, el alumnado diseñará una página web donde promocionarán el turismo en cada provincia andaluza.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pablo Ortiz González</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
